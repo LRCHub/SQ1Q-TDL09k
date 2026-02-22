@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "葦ですか。",
+  "base_artist": "なぬりそ",
+  "createdAt": "2026-02-22T17:57:55.675953Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "葦ですか。",
+      "artist": "なぬりそ",
+      "has_synced": false,
+      "path": "select/pl_01_葦ですか。_なぬりそ.txt"
+    }
+  ]
+}
